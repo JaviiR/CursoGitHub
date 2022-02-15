@@ -1,5 +1,5 @@
 1 Tomate
-2 arroz
-3 Lechuga
-4 Esparragosq
-5 Pepino
+2 entrada
+3 arroz
+3 Esparragos
+4 Pepino
